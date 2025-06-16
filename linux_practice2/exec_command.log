@@ -1,0 +1,31 @@
+    1  ls
+    2  cd root
+    3  cd server\lesson
+    4  find . -type d -name trash
+    5  cd ./server_lesson/linux_practice2/trash
+    6  cd ..
+    7  vim .git ignore
+    8  ls
+    9  ls -a
+   10  ls trash
+   11  vim .gitignore
+   12  ps aux
+   13  vim -r .gitignore
+   14  rm git ignore.swp
+   15  rm .gitignore.swp
+   16  vim .gitignore
+   17  ls trash
+   18  git status
+   19  cd ..
+   20  git status
+   21  cd linux_practice2
+   22  git statuts
+   23  git status
+   24  git init
+   25  git status
+   26  git push 
+   27  cd ..
+   28  ls documents
+   29  cd linux_practice2
+   30  ls documents
+   31  history 300 > exec_command.log 
